@@ -1,0 +1,8 @@
+# Twitter API
+.keys
+
+#OSX trash
+.DS_Store
+
+#Jupyter Trash
+.ipython_notebooks
